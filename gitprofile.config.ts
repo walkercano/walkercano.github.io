@@ -97,18 +97,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'CSU Stanislaus',
+      position: 'Assistant Professor',
+      from: 'August 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.csustan.edu',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'CSU Fresno',
+      position: 'Assistant/Associate Professor',
+      from: 'August 2015',
+      to: 'August 2022',
+      companyLink: 'https://www.fresnostate.edu',
     },
   ],
   certifications: [
@@ -121,27 +121,27 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'CSU Fresno',
+      degree: 'MBA',
+      from: '2020',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'University of Texas at San Antonio',
+      degree: 'PhD',
+      from: '2007',
+      to: '2012',
     },
   ],
   publications: [
     {
       title: 'Publication Title',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      journalName: 'Frontiers in Ecology and Evolution',
+      authors: 'Danielle J. Whittaker, Amruth Atyam, Nathan A. Burroughs, Jonathan M. Greenberg, Travis J. Hagey, Milos V. Novotny, Helena A. Soini, Kevin R. Theis, Tricia A. Van Laar, and Joel W. G. Slade',
+      link: 'https://www.frontiersin.org/articles/10.3389/fevo.2022.1027399/full',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'Avian preen oil, secreted by the uropygial gland, is an important source of volatile compounds that convey information about the sender’s identity and quality, making preen oil useful for the recognition and assessment of potential mates and rivals. Although intrinsic factors such as hormone levels, genetic background, and diet can affect preen oil volatile compound composition, many of these compounds are not the products of the animal’s own metabolic processes, but rather those of odor-producing symbiotic microbes. Social behavior affects the composition of uropygial microbial communities, as physical contact results in microbe sharing. We experimentally manipulated social interactions in captive dark-eyed juncos (<i>Junco hyemalis</i) to assess the relative influence of social interactions, subspecies, and sex on uropygial gland microbial composition and the resulting preen oil odor profiles',
     },
     {
       title: 'Publication Title',
