@@ -80,22 +80,22 @@ const CONFIG = {
       'https://walkercano.github.io/pdf/CharlesWalkerCano.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PCR', 'Bioinformatics', 'Teaching'
+    'American Heart Association CPR Certification', 'CDPH CPT-1 Certified', 'Teaching'
   ],
   experiences: [
     {
-      company: 'CSU Stanislaus',
-      position: 'Assistant Professor',
-      from: 'August 2022',
-      to: 'Present',
-      companyLink: 'https://www.csustan.edu',
+      company: 'California State University, Stanislaus',
+      position: 'Science in Our Community Lead',
+      from: 'Janaury 2023',
+      to: 'March 2024',
+      companyLink: '',
     },
     {
-      company: 'CSU Fresno',
-      position: 'Assistant/Associate Professor',
-      from: 'August 2015',
-      to: 'August 2022',
-      companyLink: 'https://www.fresnostate.edu',
+      company: 'Medical Training Solutions',
+      position: 'Phlebotomy Instructor',
+      from: 'Janaury 2020',
+      to: 'December 2023',
+      companyLink: '',
     },
   ],
   certifications: [
@@ -108,16 +108,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'CSU Fresno',
-      degree: 'MBA',
-      from: '2020',
-      to: '2024',
+      institution: 'California State Universty, Stanislaus',
+      degree: 'Bachelor of Science, Biological Sciences',
+      from: '2021',
+      to: 'Present',
     },
     {
-      institution: 'University of Texas at San Antonio',
-      degree: 'PhD',
-      from: '2007',
-      to: '2012',
+      institution: 'Modesto Junior College',
+      degree: 'A.S.',
+      from: '2009',
+      to: '2019',
     },
   ],
   publications: [
