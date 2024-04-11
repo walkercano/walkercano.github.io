@@ -52,13 +52,13 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Tricia Van Laar',
+    title: 'Portfolio of Charles Walker Cano',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'triciavanlaar',
-    twitter: 'tvanlaarmicro',
+    linkedin: 'www.linkedin.com/in/charles-walker-cano-520815125',
+    twitter: '',
     mastodon: '',
     researchGate: '',
     facebook: '',
@@ -71,10 +71,10 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://tvanlaar.github.io',
+    website: '',
     phone: '',
-    email: 'tvanlaar@csustan.edu',
-  },
+    email: 'ccano5@csustan.edu'
+  }, 
   resume: {
     fileUrl:
       'https://tvanlaar.github.io/pdfs/VanLaarCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
