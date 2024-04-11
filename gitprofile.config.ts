@@ -80,7 +80,7 @@ const CONFIG = {
       'https://walkercano.github.io/pdf/CharlesWalkerCano.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'American Heart Association CPR Certification', 'CDPH CPT-1 Certified', 'Teaching'
+    'American Heart Association CPR Certification', 'Cross-Team Communication', 'Teaching'
   ],
   experiences: [
     {
@@ -100,10 +100,10 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'California Department Pulic Health',
+      body: 'California Department of Public Health CPT-1 Certified',
+      year: 'February 2025',
+      link: 'https://www.cdph.ca.gov/Programs/OSPHLD/LFS/Pages/licensesearch.aspx',
     },
   ],
   educations: [
