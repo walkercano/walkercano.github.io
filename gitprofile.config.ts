@@ -63,7 +63,7 @@ const CONFIG = {
     researchGate: '',
     facebook: '',
     instagram: '',
-    youtube: '', // example: 'pewdiepie'
+    youtube: '', // example: 'pewdiepi'
     dribbble: '',
     behance: '',
     medium: '',
